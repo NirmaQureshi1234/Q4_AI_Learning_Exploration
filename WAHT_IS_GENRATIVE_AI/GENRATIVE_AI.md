@@ -1,4 +1,5 @@
 What Exactly Is Generative AI?
+
 🤖 Understanding AI Basics
 AI (Artificial Intelligence) is like a smart robot brain—it can learn, solve problems, and even make decisions, almost like humans. But not all AI is the same!
 
