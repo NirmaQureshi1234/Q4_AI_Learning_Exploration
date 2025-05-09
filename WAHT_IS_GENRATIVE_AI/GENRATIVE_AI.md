@@ -43,3 +43,6 @@ Many think AI is "magic" and expect perfect results instantly. But the real powe
 
 🚀 The Future Is Here
 Generative AI isn’t just a sci-fi dream—it’s already changing jobs, creativity, and even healthcare. And the best part? You can start using it today—for free!
+
+ 📖 By Nirma Qureshi – Frontend Developer & GIAIC Explorer
+👉 Read on Medium : https://medium.com/@nirmaqureshi786/what-exactly-is-generative-ai-04355ca28f3d
