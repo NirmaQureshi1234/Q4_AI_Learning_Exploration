@@ -1,0 +1,9 @@
+[project]
+name = "fastdca-p1"
+version = "0.1.0"
+description = "pydantic_validation_by_nirma_qureshi"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi[standard]>=0.115.12",
+]
