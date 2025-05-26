@@ -104,12 +104,12 @@ Cleaner Code	Leverages @dataclass and callable agents
 Scalable Architecture	Modular, testable, production-ready
 
 📚 Resources
-📖 Medium Article: Read full blog post on Medium
+📖 Medium Article: Read full blog post on Medium : https://medium.com/@nirmaqureshi786/exploring-the-power-of-openai-agents-sdk-build-smarter-autonomous-ai-systems-13366befe9f6
 
-📽️ Presentation: View the Gamma Presentation
+📽️ Presentation: View the Gamma Presentation : https://gamma.app/docs/OpenAI-Agents-SDK-Building-Autonomous-AI-Systems-7b9fxuh975be0lg
 
 👩‍💻 Author
 Nirma Qureshi
 Frontend Web Developer | GIAIC Student | Tech Explorer
 ✨ Exploring AI with purpose. Always learning, always building.
-📫 Let’s connect on LinkedIn 
+📫 Let’s connect on LinkedIn : www.linkedin.com/in/nirma-qureshi-28b91a311
