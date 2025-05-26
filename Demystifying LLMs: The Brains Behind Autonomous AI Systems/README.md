@@ -67,7 +67,13 @@ Understanding how they work is the first step toward becoming AI-literate in thi
 And now… you’re already ahead of the curve. 🚀
 
 📽️ Explore the Visual Slides Version Here:
-👉 Building Autonomous AI Systems – Gamma Presentation
+Gamma Presentation Title:
+Building Autonomous AI Systems – Powered by LLMs
+📝 Supporting Caption (for visual or opening slide): https://gamma.app/docs/What-is-an-LLM-Large-Language-Model-0er51ftljcwtyxi
+Discover how Large Language Models (LLMs) are reshaping the world of autonomous AI — enabling machines to understand, reason, and generate human-like language. Dive into the core of intelligent systems.
+🔗 **Read Full Article on Medium:**  
+[https://medium.com/@nirmaqureshi786/what-is-an-llm-e67a96d7398c](https://medium.com/@nirmaqureshi786/what-is-an-llm-e67a96d7398c)
+
 
 BY : NIRMA QURESHI
 
